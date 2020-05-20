@@ -1,0 +1,7 @@
+D:\Lab 6\Bot\Bot\bin\Debug\Bot.exe.config
+D:\Lab 6\Bot\Bot\bin\Debug\Bot.exe
+D:\Lab 6\Bot\Bot\bin\Debug\Bot.pdb
+D:\Lab 6\Bot\Bot\obj\Debug\Bot.csprojAssemblyReference.cache
+D:\Lab 6\Bot\Bot\obj\Debug\Bot.csproj.CoreCompileInputs.cache
+D:\Lab 6\Bot\Bot\obj\Debug\Bot.exe
+D:\Lab 6\Bot\Bot\obj\Debug\Bot.pdb
